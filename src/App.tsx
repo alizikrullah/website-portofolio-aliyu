@@ -179,7 +179,7 @@ function App() {
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-10">
-                    <a href="#" target="_blank" rel="noreferrer" className="group flex flex-col bg-white/[0.02] border border-white/5 rounded-3xl overflow-hidden hover:border-[#2ad882]/30 transition-all duration-500 cursor-pointer hover:-translate-y-2 block">
+                    <a href="" target="_blank" rel="noreferrer" className="group flex flex-col bg-white/[0.02] border border-white/5 rounded-3xl overflow-hidden hover:border-[#2ad882]/30 transition-all duration-500 cursor-pointer hover:-translate-y-2 block">
                         <div className="w-full h-48 sm:h-64 bg-black/40 overflow-hidden relative">
                             <img src={shareenImg} alt="Shareen Jaya Abadi" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
                             <div className="absolute inset-0 bg-[#2ad882]/0 group-hover:bg-[#2ad882]/20 transition-colors duration-500"></div>
@@ -193,7 +193,7 @@ function App() {
                         </div>
                     </a>
 
-                    <a href="https://alizikrullah.github.io/link-repo-discord-lu-disini" target="_blank" rel="noreferrer" className="group flex flex-col bg-white/[0.02] border border-white/5 rounded-3xl overflow-hidden hover:border-[#2ad882]/30 transition-all duration-500 cursor-pointer hover:-translate-y-2 block">
+                    <a href="https://alizikrullah.github.io/portofolioweb-discord-app/" target="_blank" rel="noreferrer" className="group flex flex-col bg-white/[0.02] border border-white/5 rounded-3xl overflow-hidden hover:border-[#2ad882]/30 transition-all duration-500 cursor-pointer hover:-translate-y-2 block">
                         <div className="w-full h-48 sm:h-64 bg-black/40 overflow-hidden relative">
                             <img src={discordImg} alt="Discord UI & Network" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
                             <div className="absolute inset-0 bg-[#2ad882]/0 group-hover:bg-[#2ad882]/20 transition-colors duration-500"></div>
