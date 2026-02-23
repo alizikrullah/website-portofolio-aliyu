@@ -3,7 +3,7 @@
 Welcome to the repository of my personal portfolio website! This project showcases my skills, professional background, and recent work as a Full-Stack Web Developer with a strong foundation in Telecommunications.
 
 ## 🌐 Live Demo
-[View the live website here](https://aliyuzikrullah.vercel.app) *(Note: Vercel link)*
+[View the live website here]([https://aliyuzikrullah.vercel.app])
 
 ## ✨ Features
 - Modern UI/UX: Clean, dark-themed design with neon green accents and glassmorphism effects.
